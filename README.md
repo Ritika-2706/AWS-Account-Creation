@@ -29,8 +29,8 @@ Review and Create IAM User
 Include the commands used in the Experiment.
 
 ## OUTPUT
-### REG NUMBER:
-### NAME:
+### REG NUMBER: 212221240046
+### NAME: Ritika S
 ![Screenshot (5)](https://github.com/user-attachments/assets/ce3a75b1-4489-4539-bb82-090974bad12d)
 ![Screenshot (6)](https://github.com/user-attachments/assets/cb430093-d864-474f-b93d-e4589de51559)
 ![Screenshot (7)](https://github.com/user-attachments/assets/8bf676a9-e96b-46e1-a1f3-6ecf46781f6b)
